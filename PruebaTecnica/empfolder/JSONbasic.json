@@ -1,0 +1,23 @@
+{
+  "empresa": {
+    "nombre": "Organizacion",
+    "pais": "Guatemala",
+    "sucursales": [
+      {
+        "nombre": "Sucursal 1",
+        "direccion": "Direccion 1",
+        "telefono": "11223341"
+      },
+      {
+        "nombre": "Sucursal 2",
+        "direccion": "Direccion 2",
+        "telefono": "11223342"
+      },
+      {
+        "nombre": "Sucursal 3",
+        "direccion": "Direccion 3",
+        "telefono": "11223343"
+      }
+    ]
+  }
+}
